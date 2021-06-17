@@ -24,7 +24,9 @@ sonuc = len(opelObj)
 
 # print(sonuc)
 
-opelObj['renk'] = 'kirmizi' #ekle
-opelObj.pop("renk") # sil
+# opelObj['renk'] = 'kirmizi' #ekle
+# opelObj.pop("renk") # sil
+
+del opelObj["marka"] # sil
 
 print(opelObj)
