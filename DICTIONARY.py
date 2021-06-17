@@ -1,4 +1,11 @@
-urunler = {'1': {'ad': 'ford', 'fiyat': '5000'}, '2': {'ad': 'toyota', 'fiyat': '2000'}, '3': {'ad': 'Nissan', 'fiyat': '2500'}}
+urunler = {
+           '1': {
+               'ad': 'ford', 'fiyat': '5000'
+           },
+
+           '2': {'ad': 'toyota', 'fiyat': '2000'},
+           '3': {'ad': 'Nissan', 'fiyat': '2500'}
+           }
 
 
 # id = input('id:  ')

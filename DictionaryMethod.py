@@ -1,6 +1,6 @@
 opelObj = {
-    "marka": "Opel",
-    "model": "Corsa",
+    'marka': 'Opel',
+    'model': "Corsa",
     "yil": 2020
 }
 # sonuc = opelObj["marka"]
