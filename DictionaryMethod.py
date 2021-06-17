@@ -19,6 +19,12 @@ sonuc = opelObj.get("marka")
 #     print(x+":",y)
 
 sonuc = "marka" in opelObj
-print(sonuc)
+sonuc = len(opelObj)
 
-# print(opelObj)
+
+# print(sonuc)
+
+opelObj['renk'] = 'kirmizi' #ekle
+opelObj.pop("renk") # sil
+
+print(opelObj)
