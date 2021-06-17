@@ -68,13 +68,13 @@ players = {
 
 
 # 2- id' e göre arama yapınız.
-# id = input('aramak istediğiniz oyuncu id: ')
-# player = players.get(id)
-# print(f'name: {player.get("name")}')
+id = input('aramak istediğiniz oyuncu id: ')
+player = players.get(id)
+print(f'name: {player.get("name")}')
 
 # 3- id' e göre bilgi kayıt siliniz.
 
-id = input('silmek istediğiniz oyun id: ')
-players.pop(id)
+# id = input('silmek istediğiniz oyun id: ')
+# players.pop(id)
 
-print(players)
+# print(players)
