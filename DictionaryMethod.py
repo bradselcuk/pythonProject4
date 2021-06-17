@@ -28,6 +28,15 @@ sonuc = len(opelObj)
 # opelObj.pop("renk") # sil
 
 # del opelObj["marka"] # sil
-del opelObj
+# del opelObj
+# opelObj.clear() # icini sil
 
+# op = opelObj # copy esitle
+# print(op)
+
+
+# op = opelObj.copy() # copy
+# op['Marka'] = 'Mazda'
+#
+# print(op)
 print(opelObj)
