@@ -14,3 +14,4 @@ def function3(number1,number2):
     print(number1/number2)
 
 function3(100,2)
+function3(56,34)
