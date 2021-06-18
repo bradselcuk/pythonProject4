@@ -32,12 +32,10 @@ print(type(b))
 
 # dictionary
 c = {
-    ' ':
-        {
-            'name': 'Cristiano Ronaldo', 'yearOfBirth': '1985', 'nationality': 'Portugal', 'current_team': 'Portugal', 'history': ['Juventus', 'Real Madrid', 'Portugal']
-        },
-
-        }
+     "brand": "Ford",
+     "model": "Mustang",
+     "year": 1964
+}
 print(type(c))
 
 # set
