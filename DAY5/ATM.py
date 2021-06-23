@@ -1,5 +1,4 @@
 #ATM APP
-
 account1 = {
     'name': 'Brad',
     'accountNumber': '12345678',
@@ -29,4 +28,4 @@ def withdraw(account, amount):
         else:
             print("You don't have enough balance in your account")
 
-withdraw(account2, 15000)
+withdraw(account1, 15000)
