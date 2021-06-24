@@ -28,4 +28,4 @@ def withdraw(account, amount):
         else:
             print("You don't have enough balance in your account")
 
-withdraw(account1, 15000)
+withdraw(account2, 1000)
