@@ -24,4 +24,4 @@ per_2 = Personel('Mary', 'Smith', 60000)
 
 Personel.zam_oraninin_belirle(1.1)
 print(Personel.zamorani)
-print(per_1.zamorani)
+print(per_1.zamorani) # Tum nesnelerin zam orani degisti
